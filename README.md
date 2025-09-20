@@ -6,11 +6,11 @@
 横浜駅周辺を立体的に理解することが可能になる。最終的にはウェブサイトあるいはアプリケーションを作成し、人々の混雑状況確認や緊急時の避難経路即決などに役立てる。
 
 ## 概要/Abstract
-本研究では、自身の生まれ故郷であり観光地でもある横浜駅周辺の人の動き・行為をBlenderを用いて3Dシミュレーションすることを目的とする。横浜駅は1日平均約200万人が利用する国内有数の巨大ターミナルであり、多くの人々の通勤通学の拠点であると同時に、みなとみらいや中華街、山下公園など神奈川県を代表する観光地への玄関口でもある。そのため、駅周辺の人流は日常と観光、大型イベントになどより複雑なパターンを示すだろう。歴史的に人類は2D地図に依拠してきたが、混雑時や災害時の避難経路として十分に理解するため、本研究はBlenderによる3D化を通じて、人々の移動を視覚的かつ体感的に理解することで、都市観光における回遊性の分析や、防災計画における避難シミュレーションへの応用、さらには地域DX推進に資する新しい都市可視化手法の可能性を提示する。
+本研究では、自身の生まれ故郷であり観光地でもある横浜駅周辺の人の動き・行為をBlenderを用いて3Dシミュレーションすることを目的とする。横浜駅は国内有数の巨大ターミナルであり、多くの人々の通勤通学の拠点であると同時に、横浜ベイクオーターや中華街など、神奈川県を代表するスポットの密集地でもある。そのため、駅周辺の人流は日常と観光、大型イベントになどにより複雑なパターンを示すだろう。歴史的に人類はこれまで紙地図やGoogle Mapsに依拠してきたが、混雑時や災害時の避難経路として十分に理解するため、本研究はBlenderによる3D化を通じて、人々の移動を視覚的かつ体感的に理解することで、都市観光における回遊性の分析や、避難経路の分かりやすさアップへの応用の可能性を提示する。
 
-This study aims to use Blender to perform a 3D simulation of people's movements and behaviors around Yokohama Station, my hometown and a popular tourist destination. Yokohama Station is one of Japan's largest terminals, with an average daily use of approximately 2 million people. It serves as a hub for many commuters, as well as a gateway to Kanagawa Prefecture's most popular tourist destinations, including Minato Mirai, Chinatown, and Yamashita Park. Therefore, the flow of people around the station likely exhibits complex patterns, reflecting daily life, tourism, and major events. Historically, humans have relied on 2D maps. However, to fully understand the flow of people around the station as evacuation routes during congestion and disasters, this study uses Blender to create a 3D map, allowing for a visual and experiential understanding of people's movements. This approach offers applications for analyzing urban tourism mobility, evacuation simulations in disaster prevention planning, and even new urban visualization methods that contribute to promoting regional digital transformation.
+The purpose of this study is to use Blender to conduct a 3D simulation of people's movements and behaviors around Yokohama Station, my hometown and a tourist destination. Yokohama Station is one of Japan's largest terminals, serving as a hub for many commuters and students, while also housing Kanagawa Prefecture's most iconic attractions, such as Yokohama Bay Quarter and Chinatown. Therefore, the flow of people around the station will likely exhibit complex patterns due to factors such as daily life, tourism, and large-scale events. Historically, humans have relied on paper maps and Google Maps, but to fully understand the area's role as an evacuation route during congestion and disasters, this study uses Blender to create a 3D simulation of people's movements, providing a visual and experiential understanding of their movements. This suggests potential applications for analyzing urban tourism and improving the clarity of evacuation routes.
 
-## 研究目的
+##研究目的
 
 横浜駅周辺における人の動きを3Dシミュレーションし、従来の2D可視化では捉えにくい混雑状況や空間的圧迫、地理感を表現する。
 
