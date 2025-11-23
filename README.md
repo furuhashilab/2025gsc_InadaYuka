@@ -1,5 +1,4 @@
-# 2025gsc_YukaInada
-2025年ゼミ論
+# 2025gsc_YukaInada 2025年ゼミ論
 
 ## Blenderを用いた横浜駅周辺の人流シミュレーション
 
