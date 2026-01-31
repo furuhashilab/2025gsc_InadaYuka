@@ -6,7 +6,7 @@
 横浜駅周辺を立体的に理解することが可能になる。最終的に卒論時にはウェブサイトあるいはアプリケーションを作成し、人々の混雑状況確認や緊急時の避難経路即決などに役立てる。
 
 ## 概要/Abstract
-本研究では、自身の生まれ故郷であり観光地でもある横浜駅周辺をBlenderを用いて3Dシミュレーションする。横浜駅は国内有数の巨大ターミナルであり、多くの人々の通勤通学の拠点であると同時に、横浜ベイクオーターや中華街など、神奈川県を代表するスポットの密集地でもある。そのため、駅周辺は日常と観光、大型イベントになどにより複雑なパターンを示すだろう。歴史的に人類はこれまで紙地図やGoogle Mapsに依拠してきたが、混雑や災害時の危険エリアを十分に理解するため、本研究はBlenderによる3D化を通じて、人々の移動を視覚的かつ体感的に理解することで、都市観光における回遊性の分析や、ハザードマップの分かりやすさアップへの応用の可能性を提示する。
+本研究では、自身の生まれ故郷であり観光地でもある横浜駅周辺をBlenderや衛星データを用いて調査する。横浜駅は国内有数の巨大ターミナルであり、多くの人々の通勤通学の拠点であると同時に、横浜ベイクオーターや中華街など、神奈川県を代表するスポットの密集地でもある。そのため、駅周辺は日常と観光、大型イベントになどにより複雑なパターンを示すだろう。歴史的に人類はこれまで紙地図やGoogle Mapsに依拠してきたが、混雑や災害時の危険エリアを十分に理解するため、本研究はBlenderによる3D化を通じて、人々の移動を視覚的かつ体感的に理解することで、都市観光における回遊性の分析や、ハザードマップの分かりやすさアップへの応用の可能性を提示する。
 
 The purpose of this study is to use Blender to conduct a 3D simulation of people's movements and behaviors around Yokohama Station, my hometown and a tourist destination. Yokohama Station is one of Japan's largest terminals, serving as a hub for many commuters and students, while also housing Kanagawa Prefecture's most iconic attractions, such as Yokohama Bay Quarter and Chinatown. Therefore, the flow of people around the station will likely exhibit complex patterns due to factors such as daily life, tourism, and large-scale events. Historically, humans have relied on paper maps and Google Maps, but to fully understand the area's role as an evacuation route during congestion and disasters, this study uses Blender to create a 3D simulation of people's movements, providing a visual and experiential understanding of their movements. This suggests potential applications for analyzing urban tourism and improving the clarity of evacuation routes.
 
@@ -51,6 +51,7 @@ DXを用いた都市データサイト・アプリに応用可能な情報を作
 https://github.com/furuhashilab/2025gsc_InadaYuka/issues/13
 
 ## 考察/Discussion
+衛星データの比較を行う前から2024年10月27日は横浜スタジアムでの日本シリーズ第2戦と横浜マラソン2024という2つの大きなイベントの開催日であり、混雑すると予想していたが、ハロウィンやクリスマスよりも混雑していたことには驚いた。また、横浜市について立体的に見られる従来の防災マップの代表的な先例には、国土地理院の重ねるハザードマップや、神奈川県土砂災害警戒情報システムがある。しかし、3D機能を使用しても、2D地図を斜めにしたような見た目になるだけで、具体的な建物の高さや空間を立体的に見づらい部分があった。今回blenderで作成した3Dマップと重ねながら見ていったことにより、津波や高潮が起きる危険性の高いエリアにある、逃げづらい高層ビルや建物の密集地を目で見て確認することを可能にした。
 
 ## まとめ/Conclusion
 
