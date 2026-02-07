@@ -57,5 +57,4 @@ https://github.com/furuhashilab/2025gsc_InadaYuka/issues/13
 本研究では、横浜駅周辺を対象に、衛星データやハザードマップをBlenderで作成した3D地図と重ねながら観察することによって、混雑エリアや危険エリアをより立体的に把握する手法を検討した。その結果、イベント時の賑わいの特徴や、臨海部・川沿いに位置する高層建築物周辺の災害リスクを、従来の2D地図よりも直感的に理解できる可能性が示された。今後は、Unityを用いてリアルタイムの人流データを取り入れたWebサイトやアプリケーションの作成・完成を目指し、混雑状況把握や災害時の効率的な避難経路の把握に有効な可視化手法としての展開を検討したい。
 
 [参考文献](https://docs.google.com/spreadsheets/d/167k3vbcYbNHPKjOMi6sgdssJF4iwJq3PYJ1As2J237M/edit?usp=drivesdk)
-[発表PDF](https://drive.google.com/file/d/1CZ1G1pvtnTqmqx2tVIfz2Nd4_MYU9etR/view?usp=drivesdk)
 [発表スライド](https://www.canva.com/design/DAG__j3vuig/i39HBAilVVOBzwMBQ5Jm6Q/view?utm_content=DAG__j3vuig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h072da034da)
