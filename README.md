@@ -59,5 +59,7 @@ https://github.com/furuhashilab/2025gsc_InadaYuka/issues/13
 ## 参考文献
 https://docs.google.com/spreadsheets/d/167k3vbcYbNHPKjOMi6sgdssJF4iwJq3PYJ1As2J237M/edit?usp=drivesdk
 ## 発表資料
+# PDF
 https://drive.google.com/file/d/1CZ1G1pvtnTqmqx2tVIfz2Nd4_MYU9etR/view?usp=drivesdk
+# スライド
 https://www.canva.com/design/DAG__j3vuig/i39HBAilVVOBzwMBQ5Jm6Q/view?utm_content=DAG__j3vuig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h072da034da
