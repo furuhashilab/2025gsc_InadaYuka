@@ -1,4 +1,4 @@
-# 2025gsc_YukaInada 
+see# 2025gsc_YukaInada 
 2025年ゼミ論から2026年卒論にかけての研究
 
 ## Blenderを用いた横浜駅周辺の混雑エリア・危険エリアの立体的な把握
@@ -62,4 +62,4 @@ https://docs.google.com/spreadsheets/d/167k3vbcYbNHPKjOMi6sgdssJF4iwJq3PYJ1As2J2
 ### PDF
 https://drive.google.com/file/d/1CZ1G1pvtnTqmqx2tVIfz2Nd4_MYU9etR/view?usp=drivesdk
 ### スライド
-https://www.canva.com/design/DAG__j3vuig/i39HBAilVVOBzwMBQ5Jm6Q/view?utm_content=DAG__j3vuig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h072da034da
+[発表スライド](https://www.canva.com/design/DAG__j3vuig/i39HBAilVVOBzwMBQ5Jm6Q/view?utm_content=DAG__j3vuig&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h072da034da)
